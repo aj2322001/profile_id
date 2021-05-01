@@ -1,6 +1,6 @@
 # profile_id
 
-profile layout.
+profile layout using Flutter.
 
 *view in android device* <br/> <img src="profile_id_device_images/android_pic.jpg" width=250>
 
