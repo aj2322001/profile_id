@@ -1,16 +1,9 @@
 # profile_id
 
-A new Flutter application.
+profile layout.
 
-## Getting Started
+*view in android device* <br/> <img src="profile_id_device_images/android_pic.jpg" width=250>
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*view in windows 10 device* <br/> <img src="profile_id_device_images/windows_pic.jpg" width=750>
